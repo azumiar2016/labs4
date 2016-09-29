@@ -1,0 +1,168 @@
+    1  ssh-keygen -t rsa -b 4096
+    2  eval "$(ssh-agent -s)"
+    3  ssh-add ~/.ssh/id_rsa
+    4  clip < ~/.ssh/id_rsa.pub
+    5  cd /c/Users/Azumi/myrepo
+    6  cd /c/Users/Azumi/myrepo
+    7  ls
+    8  git init
+    9  git branch
+   10  git add .
+   11  git commit -m "New file added"
+   12  git log
+   13  git commit -m "New file added"
+   14  git branch
+   15  git add
+   16  git add .'
+   17  git add .
+   18  ;
+   19  -git/
+   20  .git/
+   21  file
+   22  txt
+   23  x
+   24  fuck
+   25  git bracnh
+   26  eval "$(ssh-agent -s)"
+   27  ssh-add ~/.ssh/id_rsa
+   28  clip < ~/.ssh/id_rsa.pub
+   29  cd /c/Users/Azumi/myrepo
+   30  ls
+   31  git init
+   32  git branch
+   33  git add .
+   34  git commit -m "new file added"
+   35  clip < ~/.ssh/id_rsa.pub
+   36  git init
+   37  git branch
+   38  git add .
+   39  git commit -m "new file added"
+   40  git commit -m "new file added"
+   41  git commit -m "new file added"
+   42  git init
+   43  git branch
+   44  git add .
+   45  git commit -m "new file added"
+   46  git add .
+   47  git commit -m "new file added"
+   48  git log
+   49  git remote add origin https://github.com/azumiar2016/tvt15smo.git
+   50  git remote -v 
+   51  git push origin master
+   52  history
+   53  history >myloki.log
+   54  git status
+   55  git add .
+   56  git status
+   57  git commit -m "Added a new line"
+   58  git show
+   59  git push origin master
+   60  git checkout 4e862c98e726970ba2c89b3e9289fe91dfcb1ec8
+   61  git checkout master
+   62  git branch b1
+   63  git branch
+   64  git add .
+   65  git commit -m "added line masterissa"
+   66  git checkout b1
+   67  git branch
+   68  git add .
+   69  git commit -m "added line b1..."
+   70  git checkout master
+   71  git branch
+   72  git merge b1 -m "Merged"
+   73  git branch -d b1
+   74  git bracnh
+   75  git branch
+   76  git bracnh b2
+   77  git branch
+   78  git branch b2
+   79  git add .
+   80  git add .
+   81  git commit -m "added master in line 1"
+   82  git checkout b2
+   83  git branch
+   84  git add .
+   85  git commit -m "added branch in line 1"
+   86  git checkout master
+   87  git branch
+   88  git merge b2 -m "merge"
+   89  git add .
+   90  git commit -m "commit resolved"
+   91  git brach -d b2
+   92  git branch -d b2
+   93  git branch b3
+   94  git branch
+   95  checkout b3
+   96  git checkout b3
+   97  git branch
+   98  git add .
+   99  git commit -m "remote branch"
+  100  git push origin b3
+  101  history
+  102  history >myloki
+  103  history >myloki.log
+  104  history >mylokiteksti.txt
+  105  git branch
+  106  git branch -d b3
+  107  git checkout master
+  108  git branch -d b3
+  109  git branch -D b3
+  110  cd home
+  111  cd /c/Users/Azumi/labs4 repo
+  112  cd /c/Users/Azumi/labs4 repo
+  113  cd /c/Users/Azumi/labs4
+  114  ls
+  115  git init
+  116  git branch
+  117  git add .
+  118  git add .
+  119  git commit -m "new file added"
+  120  git log
+  121  git remote add origin https://github.com/azumiar2016/tvt15smo.git
+  122  git remote -v
+  123  git push origin master
+  124  git add .
+  125  git commit -m "new file added"
+  126  git add .
+  127  git commit -m "new file added"
+  128  git push origin master
+  129  ssh-keygen -t rsa -b 4096
+  130  eval "$(ssh-agent -s)"
+  131  ssh-add ~/.ssh/id_rsa
+  132  clip < ~/.ssh/id_rsa.pub
+  133  cd /c/Users/Azumi/labs4
+  134  ls
+  135  git init
+  136  git branch
+  137  git add .
+  138  git commit -m "new file added"
+  139  git log
+  140  git remote add origin https://github.com/azumiar2016/tvt15smo.git
+  141  git remote -v
+  142  git push origin master
+  143  git pull origin master
+  144  git push origin master
+  145  git pull origin master
+  146  git remote add origin https://github.com/azumiar2016/labs4.git
+  147  git remote remove origin
+  148  git remote add origin https://github.com/azumiar2016/labs4.git
+  149  git remote -v
+  150  history
+  151  git push origin master
+  152  git add .
+  153  git commit -m "cat made"
+  154  git push origin master
+  155  git add .
+  156  git commit -m "shortcat made"
+  157  git push origin master
+  158  git branch b1
+  159  git checkout b1
+  160  git checkout master
+  161  git branch
+  162  git add .
+  163  git commit -m "made shortcat longer"
+  164  checkout branch b1
+  165  git log
+  166  git show
+  167  history
+  168  history >myloki.log
