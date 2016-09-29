@@ -179,3 +179,4 @@
   179  git branch
   180  history
   181  history > myloki.log
+  182  history > mylog.log
